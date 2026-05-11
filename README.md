@@ -9,7 +9,7 @@ Built by Arun Venkat Jonna and Sangameshwar Sale at IIIT Hyderabad.
 ## 📌 Project Overview
 This project demonstrates the seamless integration of low-level analog capacitive physics with high-speed microcontroller routing to create a highly robust 16-channel touch matrix. By mathematically tuning an analog front-end and engineering a novel multiplexing architecture, the system translates microscopic human capacitance ($\approx 25\text{pF}$) into stable digital logic without overwhelming the host microcontroller.
 
-[📺 Watch the Project Demonstration Video Here](INSERT_YOUTUBE_LINK_HERE)
+[📺 Watch the Project Demonstration Video Here](https://youtube.com/watch?v=bUG1As17Vn8&feature=shared)
 
 ---
 
